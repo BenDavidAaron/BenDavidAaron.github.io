@@ -5,3 +5,4 @@ I got a static site blog now. Hopefully the relative ease of admin will encourag
 ## Posts:
 
 * [Hello](posts/hello.md)
+* [The Recursive Turtle](posts/recursive-turtle.md)
